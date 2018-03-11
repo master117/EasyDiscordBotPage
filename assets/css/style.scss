@@ -11,6 +11,12 @@
 	background-image: none; 
 }
 
+@media (min-width: 800px) {
+  	.page-header { 
+		background-image: url(https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png); 
+	}
+}
+
 .btn {
     	color: rgba(#f6b41f, 0.7);
     	text-decoration: none;
