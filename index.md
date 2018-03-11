@@ -21,7 +21,7 @@ SOS!
 | addrole | rolename, no # or id | Adds a role to the list of settable/allowed roles.       |
 | delrole | rolename, no # or id | Removes a role from the list of settable/allowed roles.  |
 
-<br><br>
+<br>
 
 EasyDiscordBot also offers multiple passive commands, detailed below, all of them are in reaction to user messages:
 
@@ -33,7 +33,7 @@ EasyDiscordBot also offers multiple passive commands, detailed below, all of the
 
 ![Example Correction](https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/example1.png)
 
-<br><br>
+<br>
 
 Notes
 
