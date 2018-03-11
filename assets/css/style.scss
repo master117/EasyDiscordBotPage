@@ -3,8 +3,22 @@
 
 @import "{{ site.theme }}"; 
 .page-header { 
-padding-top: 2rem !important;
-padding-bottom: 0rem !important;
-color: #7986e4 !important;
-background-image: url("https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png"); 
+	padding-top: 2rem !important;
+	padding-bottom: 0rem !important;
+	color: #7986e4 !important;
+	background-image: url("https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png"); 
+}
+
+.btn:hover {
+    	color: rgba(121, 134, 228, 0.8);
+    	text-decoration: none;
+    	background-color: rgba(121, 134, 228, 0.2);
+    	border-color: rgba(121, 134, 228, 0.3);
+}
+
+.btn:hover {
+    	color: rgba(121, 134, 228, 0.7);
+    	text-decoration: none;
+    	background-color: rgba(121, 134, 228, 0.2);
+    	border-color: rgba(121, 134, 228, 0.3);
 }
