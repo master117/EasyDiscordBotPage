@@ -3,5 +3,8 @@
 
 @import "{{ site.theme }}"; 
 .page-header { 
+padding-top: 2rem !important;
+padding-bottom: 0rem !important;
+color: #7986e4 !important;
 background-image: url("https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png"); 
 }
