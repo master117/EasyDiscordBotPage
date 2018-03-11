@@ -23,6 +23,10 @@ SOS!
 
 <br>
 
+![Example Correction](https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/example2.png)
+
+<br>
+
 EasyDiscordBot also offers multiple passive commands, detailed below, all of them are in reaction to user messages:
 
 | message contains          | action                                                                                                       |
