@@ -13,7 +13,11 @@
 
 @media (min-width: 800px) {
   	.page-header { 
-		background-image: url(https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png); 
+		background: url(https://raw.githubusercontent.com/master117/EasyDiscordBotPage/master/Header.png) no-repeat center center fixed; 
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		background-size: cover;
 	}
 }
 
@@ -34,3 +38,4 @@
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #5f3933;
 }
+
