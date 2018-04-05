@@ -13,13 +13,21 @@ EasyDiscordBot offers multiple active commands, detailed below, all of them are 
 SOS!
 ```
 
-| command | parameter            | function                                                 |
-|:--------|:---------------------|:---------------------------------------------------------|
-| help    |                      | Prints a help message.                                   |
-| roles   |                      | Prints the list of settable/allowed roles.               |
-| role    | rolename, no # or id | Set or removes the role (if allowed) from the user.      |
-| addrole | rolename, no # or id | Adds a role to the list of settable/allowed roles.       |
-| delrole | rolename, no # or id | Removes a role from the list of settable/allowed roles.  |
+| command 	| parameter            	| function                                                 |
+|:--------------|:----------------------|:--------------------------------------------------------------|
+| help    	|                      	| Prints a help message.                                   	|
+| roles   	|                      	| Prints the list of settable/allowed roles.               	|
+| role    	| rolename, no # or id	| Set or removes the role (if allowed) from the user.      	|
+| addrole 	| rolename, no # or id 	| Adds a role to the list of settable/allowed roles.       	|
+| delrole 	| rolename, no # or id 	| Removes a role from the list of settable/allowed roles.  	|
+| corrections 	|                      	| Prints the list of Corrections.               		|
+| addreplace 	| text			| Adds the string to the to be replaced list.      		|
+| delreplace 	| text			| Removes the string from the to be replaced list.      	|
+| addignore 	| text			| Adds the string to the to be ignored list.      		|
+| delignore 	| text			| Removes the string from the to be ignored list.      		|
+| addcorrection | text(case sensitive)	| Adds the string to the corrections list.			|
+| delcorrection | text(case sensitive)	| Removes the string from the corrections list.			|
+
 
 <br>
 
